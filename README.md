@@ -1,6 +1,6 @@
 # Algorithms Lab Assignment 1
 
-This repository contains Python implementations of fundamental algorithms for Lab Assignment 1. The assignment covers different problem-solving paradigms including Divide and Conquer, Greedy Algorithms, and Dynamic Programming.
+Python implementations of fundamental algorithms. It covers different problem-solving paradigms including Divide and Conquer, Greedy Algorithms, and Dynamic Programming.
 
 ## Problems Covered
 
