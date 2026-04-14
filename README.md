@@ -1,7 +1,3 @@
-# Algorithms Lab Assignment
-
-Python implementations of fundamental algorithms. It covers different problem-solving paradigms including Divide and Conquer, Greedy Algorithms, and Dynamic Programming.
-
 ## Problems Covered
 
 1. **Problem 1: Divide and Conquer – Merge Sort**
